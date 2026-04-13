@@ -1,58 +1,125 @@
-# 🛒 E-Commerce KPI Dashboard — 2023–2024 Sales Analysis
+<h1 align="center">Hi, I'm Rashid Kamara 👋</h1>
 
-![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458?logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557c)
-![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-4c72b0)
-![Status](https://img.shields.io/badge/Status-Complete-2D6A4F)
+<p align="center">
+  <strong>Data Analyst</strong> · Entertainment · Anime · Gaming · E-Commerce · Travel<br/>
+  Colorado Springs, CO &nbsp;|&nbsp; Open to Remote & Relocation (London 2027)
+</p>
 
----
-
-## 📊 Project Overview
-
-A full end-to-end KPI analysis of a simulated e-commerce retailer covering **15,000 orders** across **7 product categories**, **4 regions**, and **3 customer segments** over a two-year period (2023–2024).
-
-This project replicates the kind of business intelligence work data analysts perform in retail and e-commerce environments — tracking revenue trends, return rates, customer value segmentation, and year-over-year growth through an interactive multi-panel dashboard.
-
----
-
-## 🔑 Key Findings
-
-| KPI | Value |
-|---|---|
-| Total Net Revenue (2Y) | ~$6.2M |
-| Total Orders | 15,000 |
-| Average Order Value | ~$92 |
-| Overall Return Rate | ~10.5% |
-| Unique Customers | ~6,800 |
-| YoY Revenue Growth | ~+4% |
-
-- **Electronics** was the top revenue-generating category by a significant margin
-- **Clothing** had the highest return rate (~18%), signaling a need for better size guides and product photography
-- **VIP customers** generated ~40% more revenue per order than new customers — underlining the ROI of loyalty programs
-- YoY revenue grew positively across most categories, with the **West** region leading all markets
+<p align="center">
+  <a href="https://www.linkedin.com/in/rashid-kamara-9363a8332/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:rrashid.kamara@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/IBM%20Data%20Analytics-Certified%202026-054ADA?style=for-the-badge&logo=ibm&logoColor=white"/>
+</p>
 
 ---
 
-## 📈 Dashboard Preview
+## 🧠 About Me
 
-![E-Commerce KPI Dashboard](ecommerce_kpi_dashboard.png)
+I'm a data analyst with a background in **brand building, e-commerce, and creative direction**. I founded **Elysium** — a streetwear brand I grew to 20,000+ followers using data to drive content strategy, audience targeting, and campaign optimization.
 
-*Run the script to generate a live dashboard with your own seed values*
+That's where I learned that the best creative decisions are backed by data.
 
----
+Now I build end-to-end analytics projects focused on the industries I'm most passionate about: **anime, gaming, entertainment, travel, and e-commerce** — combining technical rigor with storytelling that actually moves people.
 
-## 🛠️ Tools & Technologies
-
-| Tool | Purpose |
-|---|---|
-| **Python 3.10+** | Core analysis language |
-| **Pandas** | Data wrangling, aggregation, groupby analysis |
-| **NumPy** | Synthetic data generation, vectorized operations |
-| **Matplotlib** | Custom multi-panel GridSpec dashboard |
-| **Seaborn** | Statistical chart styling |
-| **JupyterLab** | Development environment |
+- 🎯 Targeting roles in **entertainment, streaming, gaming, and e-commerce analytics**
+- 📊 IBM Data Analytics Professional Certificate (2026)
+- 🌍 Relocating to **London** (2027) — open to international opportunities now
+- 🎌 Deep roots in anime culture — encyclopedic knowledge across genres
+- 📸 Freelance photographer & visual data specialist since 2019
 
 ---
 
-## 📁 Project Structure
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Seaborn-4c72b0?style=flat-square"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-Sentiment%20Analysis-7209B7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JupyterLab-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+</p>
+
+---
+
+## 📂 Featured Projects
+
+### 🎯 Entertainment & Culture
+| Project | Description | Tools |
+|---|---|---|
+| [🎌 Anime Streaming Trends](https://github.com/Rashidkamara123/Anime-streaming-data-analysis-) | MyAnimeList API · Genre popularity, ratings, seasonal trends | Python · MAL API |
+| [🎮 Video Game Sales Analysis](https://github.com/Rashidkamara123/Video-Game-Sales-Ratings-Analysis) | 16,600+ games · Genre, platform & regional trends | Python · Pandas |
+| [🎬 Box Office Revenue Trends](https://github.com/Rashidkamara123/boxoffice-trends) | 1,500 films · COVID impact, genre ROI, RT vs box office | Python · Seaborn |
+| [🎵 Spotify Music Trends](https://github.com/Rashidkamara123/spotify-music-trends) | 10K tracks · Genre shifts, K-Pop rise, danceability correlation | Python · SciPy |
+| [📺 Netflix Content Strategy](https://github.com/Rashidkamara123/Netflix-Content-Strategy-Analyzer) | Content strategy analysis across genres and regions | Python · Pandas |
+| [🎌 Fandom Sentiment Dashboard](https://github.com/Rashidkamara123/fandom-sentiment-dashboard) | 25K posts · NLP sentiment across 15 anime & gaming franchises | Python · NLP |
+
+### 🛒 E-Commerce & Business
+| Project | Description | Tools |
+|---|---|---|
+| [🛒 E-Commerce KPI Dashboard](https://github.com/Rashidkamara123/ecommerce-kpi-dashboard) | 15K orders · Revenue, returns, AOV, YoY growth | Python · Matplotlib |
+| [📉 Customer Churn Analysis](https://github.com/Rashidkamara123/customer-churn-analysis) | Telecom churn EDA + Random Forest model · AUC 0.69 | Python · Scikit-learn |
+| [🗃️ SQL Sales Analysis](https://github.com/Rashidkamara123/sql-sales-analysis) | SQLite DB · 8 queries from basic JOINs to window functions | SQL · Python |
+| [⭐ Amazon Review Sentiment](https://github.com/Rashidkamara123/amazon-review-sentiment) | 20K reviews · NLP sentiment pipeline across 10 categories | Python · NLP |
+| [📱 Social Media Analytics](https://github.com/Rashidkamara123/social-media-analytics) | Brand analytics · Engagement, reach, optimal posting times | Python · SciPy |
+
+### ✈️ Travel & Lifestyle
+| Project | Description | Tools |
+|---|---|---|
+| [✈️ Travel Destination Tracker](https://github.com/Rashidkamara123/travel-destination-tracker) | 15 cities · COVID recovery, seasonal trends, value map | Python · Seaborn |
+| [🏠 Airbnb Price Analysis](https://github.com/Rashidkamara123/airbnb-price-analysis) | 12K listings · Global pricing, amenity premiums, seasonality | Python · SciPy |
+| [🏰 Disney Park Wait Times](https://github.com/Rashidkamara123/Disney-Park-Wait-Time-Analysis-) | Park wait patterns and ride demand forecasting | Python · Pandas |
+
+### 🏥 Healthcare & Analytics
+| Project | Description | Tools |
+|---|---|---|
+| [🏥 NHS Healthcare Analytics](https://github.com/Rashidkamara123/nhs-healthcare-analytics) | 6 trusts · Breach rates, bed occupancy, staffing vs outcomes | Python · Seaborn |
+| [🎲 Player Retention A/B Test](https://github.com/Rashidkamara123/player-retention-ab-test) | Cookie Cats · Chi-squared test · Statistically significant | Python · SciPy |
+
+### 🏀 Sports & Other
+| Project | Description | Tools |
+|---|---|---|
+| [🏀 NBA Sports Analytics](https://github.com/Rashidkamara123/nba-sports-analytics) | 3,150 player-seasons · Salary vs WS, 3PT revolution, PER | Python · Seaborn |
+| [🖼️ MOMA Collection Analysis](https://github.com/Rashidkamara123/moma-collection-analysis) | Art collection trends, nationality & medium analysis | Python · Pandas |
+| [👗 Vogue Colorism Analysis](https://github.com/Rashidkamara123/vogue-colorism-analysis) | Representation and colorism trends in fashion media | Python · Pandas |
+
+---
+
+## 📈 What I'm Working On
+
+- 🔨 Continuously expanding portfolio with new industry projects
+- 📡 Building NLP pipelines with real Reddit API data
+- 🌍 Targeting London-based and international analytics roles
+- 🎨 Elysium brand analytics — Instagram audience + campaign performance
+
+---
+
+## 🌐 Beyond the Code
+
+- 🎌 Anime collector — figures, manga, cards, streetwear
+- 📸 Freelance photographer & visual data specialist since 2019
+- 🏯 Major anime convention attendee (AWA, Anime Expo, etc.)
+- 🌍 English · French · West African Krio & Mende · Learning Brazilian Portuguese
+- 🚀 Aiming to work internationally — Japan, London, and Latin America
+
+---
+
+<p align="center">
+  <i>"The best creative decisions are backed by data."</i><br/>
+  <sub>— Rashid Kamara</sub>
+</p>
